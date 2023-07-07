@@ -7,26 +7,27 @@ import kotlinx.android.synthetic.main.activity_main.fabPause
 import kotlinx.android.synthetic.main.activity_main.fabPlay
 
 class MainActivity : AppCompatActivity() {
-    lateinit var mediaPlayer: MediaPlayer
+    private var mediaPlayer: MediaPlayer?=null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        mediaPlayer = MediaPlayer.create(this, R.raw.music)
         fabPlay.setOnClickListener{
-            mediaPlayer.start()
+            if(mediaPlayer==null)
+                mediaPlayer = MediaPlayer.create(this, R.raw.music)
+            mediaPlayer?.start()
         }
         fabPause.setOnClickListener{
-            mediaPlayer.pause()
+            mediaPlayer?.pause()
         }
     }
 
     override fun onPause() {
         super.onPause()
-        mediaPlayer.pause()
+        mediaPlayer?.pause()
     }
 
     override fun onResume() {
         super.onResume()
-        mediaPlayer.start()
+        mediaPlayer?.start()
     }
 }
