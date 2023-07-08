@@ -103,11 +103,6 @@ class MainActivity : AppCompatActivity() {
         mediaPlayer?.pause()
     }
 
-    override fun onResume() {
-        super.onResume()
-        mediaPlayer?.start()
-    }
-
     private fun calculateTime(time: Int): String
     {
 
