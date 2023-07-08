@@ -1,5 +1,7 @@
 # Music Player App
 
+
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 [![Kotlin](https://img.shields.io/badge/kotlin-1.5.20-orange.svg)](https://kotlinlang.org/)
@@ -27,6 +29,7 @@ The Music Player App is a user-friendly and feature-rich application that allows
 
 ## Demo Video
 
+https://github.com/AdhamAliAbdelAal/Music-App/assets/83884426/bad6c126-257d-4318-974f-822dc4be2779
 
 
 ## Features
