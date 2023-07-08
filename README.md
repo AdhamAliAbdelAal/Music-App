@@ -14,17 +14,20 @@ The Music Player App is a user-friendly and feature-rich application that allows
 
 ## Screenshots
 
-Include one or more screenshots or GIFs showcasing your app's user interface and key features. You can add them directly to the README or provide links to external image hosting platforms.
+<p align="center">
+  <img src="/images/normal.jpeg" width="200" alt="App Logo">
+</p>
+<p align="center">
+  <img src="/images/landscape.jpeg" width="400" alt="App Logo">
+</p>
 
-![Screenshot 1](/path/to/screenshot_1.png)
-![Screenshot 2](/path/to/screenshot_2.png)
-![Screenshot 3](/path/to/screenshot_3.png)
+<p align="center">
+  <img src="/images/icon.jpeg" width="200" alt="App Logo">
+</p>
 
 ## Demo Video
 
-Provide a link to a demo video that showcases your application's features and functionality. You can host the video on YouTube, Vimeo, or any other video hosting platform.
 
-[![Demo Video](/path/to/demo_video_thumbnail.png)](https://www.youtube.com/watch?v=your-demo-video-url)
 
 ## Features
 
