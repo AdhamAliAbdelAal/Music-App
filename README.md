@@ -4,7 +4,9 @@
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
 [![Kotlin](https://img.shields.io/badge/kotlin-1.5.20-orange.svg)](https://kotlinlang.org/)
 
-![App Logo](/images/logo.png)
+<p align="center">
+  <img src="/images/logo.png" alt="App Logo">
+</p>
 
 ## Description
 
@@ -26,11 +28,16 @@ Provide a link to a demo video that showcases your application's features and fu
 
 ## Features
 
-List the main features of your application. Use bullet points to make it easy to read and understand. You can also include sub-features under each main feature.
+The Music Player App offers the following key features:
 
-* Feature 1: Description of the feature.
-* Feature 2: Description of the feature.
-* Feature 3: Description of the feature.
+* Play: Start playing the selected song.
+* Pause: Pause the currently playing song.
+* Stop: Stop the currently playing song and reset playback progress.
+* Seekbar: Drag the seekbar to navigate through the song and control playback progress.
+* Time Display: Show the time spent from the song, allowing users to track their listening sessions.
+* Fully Responsive: The app is designed to be responsive and adaptable to all screens and any rotations.
+
+With these features, the Music Player App provides a seamless and enjoyable music listening experience, giving users complete control over their music playback and allowing them to easily manage their playlists.
 
 ## Installation
 
@@ -44,7 +51,7 @@ Provide instructions on how to install and run your application. Include any spe
 
 ### Installation Steps
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `https://github.com/AdhamAliAbdelAal/Music-App.git`
 2. Open the project in Android Studio.
 3. Build the project using the Gradle build system.
 4. Run the application on an emulator or physical Android device.
