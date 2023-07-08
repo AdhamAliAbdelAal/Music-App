@@ -29,7 +29,11 @@ The Music Player App is a user-friendly and feature-rich application that allows
 
 ## Demo Video
 
-https://github.com/AdhamAliAbdelAal/Music-App/assets/83884426/bad6c126-257d-4318-974f-822dc4be2779
+
+
+https://github.com/AdhamAliAbdelAal/Music-App/assets/83884426/f274900d-0bc0-48ab-8c7b-32bf9ab5db8e
+
+
 
 
 ## Features
